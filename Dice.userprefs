@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/dice_obj/Dice5Script.cs">
+    <Files>
+      <File FileName="Assets/dice_obj/DiceScript.cs" Line="35" Column="1" />
+      <File FileName="Assets/dice_obj/Dice2Script.cs" Line="34" Column="54" />
+      <File FileName="Assets/dice_obj/Dice3Script.cs" Line="34" Column="54" />
+      <File FileName="Assets/dice_obj/Dice4Script.cs" Line="34" Column="54" />
+      <File FileName="Assets/dice_obj/Dice5Script.cs" Line="21" Column="44" />
+      <File FileName="Assets/dice_obj/DiceCheckZoneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/dice_obj/DiceNumberTextScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

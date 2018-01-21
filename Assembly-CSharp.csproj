@@ -51,6 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\dice_obj\Dice2Script.cs" />
+     <Compile Include="Assets\dice_obj\Dice3Script.cs" />
+     <Compile Include="Assets\dice_obj\Dice4Script.cs" />
+     <Compile Include="Assets\dice_obj\Dice5Script.cs" />
      <Compile Include="Assets\dice_obj\DiceCheckZoneScript.cs" />
      <Compile Include="Assets\dice_obj\DiceNumberTextScript.cs" />
      <Compile Include="Assets\dice_obj\DiceScript.cs" />
